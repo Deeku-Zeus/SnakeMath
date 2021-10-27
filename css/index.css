@@ -1,0 +1,26 @@
+body{
+	margin: 0%;
+}
+canvas{
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    box-shadow: 10px 10px 15px gray;
+    /*border-style: solid;*/
+    border-width: 10px;
+    height: 608px;
+    width: 608px;
+    margin-bottom: 50px;
+}
+@font-face { font-family: sparkles; src: url('../fonts/sparkles.otf'); }
+@font-face { font-family: trex; src: url('../fonts/trex.otf'); } 
+
+
+.heading{
+	font-family: trex;
+	text-align: center;
+	font-size: 75px;
+	color: #196F3D;
+	text-shadow: 10px 10px 15px gray;
+
+}
